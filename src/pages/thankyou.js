@@ -21,6 +21,3 @@ export default () => (
     </div>
   </Layout>
 );
-
-
-export default ThankYou
