@@ -75,8 +75,8 @@ class HomeIndex extends React.Component {
     }
 
     render() {
-        const siteTitle = "Gatsby Starter - Strata"
-        const siteDescription = "Site description"
+        const siteTitle = "Savannah Schmidt MUA"
+        const siteDescription = "Savannah Schmidt professional makeup artist for hire"
 
         return (
             <Layout>
@@ -118,8 +118,11 @@ class HomeIndex extends React.Component {
                         <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
-                                <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="#">
-                                  <input type="hidden" name="bot-field" />
+                                <form
+                                  name="contact"
+                                  method="post"
+                                  data-netlify="true" data-netlify-honeypot="bot-field"
+                                  >
                                     <div className="row uniform 50%">
                                         <div className="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
                                         <div className="6u 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
