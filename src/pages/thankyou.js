@@ -5,15 +5,6 @@ import Layout from '../components/layout'
 
 export default () => (
 
-  const siteTitle = "Savannah Schmidt MUA"
-  const siteDescription = "Savannah Schmidt professional makeup artist for hire"
-
-  return (
-          <Helmet>
-                  <title>{siteTitle}</title>
-                  <meta name="description" content={siteDescription} />
-          </Helmet>
-
   <Layout>
 
 
