@@ -278,9 +278,9 @@
         "owner": "internal-data-bridge"
       }
     },
-    "01cef027-1460-50a3-82c8-62b5488c64c5": {
+    "8911fc21-6834-59bf-9dd8-6fdb71f6c33e": {
       "resolve": "/home/wiljago/savannah/node_modules/gatsby-plugin-manifest",
-      "id": "01cef027-1460-50a3-82c8-62b5488c64c5",
+      "id": "8911fc21-6834-59bf-9dd8-6fdb71f6c33e",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.7",
       "pluginOptions": {
@@ -288,8 +288,8 @@
         "name": "gatsby-starter-default",
         "short_name": "starter",
         "start_url": "/",
-        "background_color": "#663399",
-        "theme_color": "#663399",
+        "background_color": "#855a82",
+        "theme_color": "#855a82",
         "display": "minimal-ui",
         "icon": "src/assets/images/website-icon.png"
       },
@@ -361,7 +361,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "573dd15d64cd84718d33ccd15eb996ed",
+        "contentDigest": "2a1107eb0c72b75436e12b59962c9019",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -532,7 +532,7 @@
       "resolve": "/home/wiljago/savannah",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "c8879e0ea4972c666ac28ab2eeaa415b",
+      "version": "1f77cf560607fc2585af5a0eb6b57530",
       "pluginOptions": {
         "plugins": []
       },
@@ -604,7 +604,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4eacad030ff22026d0530ff62c52731f",
+        "contentDigest": "20c10917b8991337eb6225cec8c2c0aa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -718,12 +718,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-15T18:45:38.798Z",
+      "buildTime": "2018-11-15T20:11:29.833Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "38ddcf3df4480c397646407d25b4046e",
+        "contentDigest": "2483542cf7be9a56be6af5a521467b4d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -768,6 +768,26 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /thankyou/": {
+      "jsonName": "thankyou-324",
+      "internalComponentName": "ComponentThankyou",
+      "path": "/thankyou/",
+      "component": "/home/wiljago/savannah/src/pages/thankyou.js",
+      "componentChunkName": "component---src-pages-thankyou-js",
+      "context": {},
+      "pluginCreator___NODE": "2d1a3704-eb9f-5965-9cf6-8d1a8a5e2d7b",
+      "pluginCreatorId": "2d1a3704-eb9f-5965-9cf6-8d1a8a5e2d7b",
+      "componentPath": "/home/wiljago/savannah/src/pages/thankyou.js",
+      "id": "SitePage /thankyou/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "61ef0d2731c90c021d29d61eeac47ad0",
+        "description": "2d1a3704-eb9f-5965-9cf6-8d1a8a5e2d7b",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /404.html": {
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
@@ -793,7 +813,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "d5c1bf2bc329b60125e4995352ee918a"
+    "PLUGINS_HASH": "63734b7956f4d0f704f85c409b97b603"
   },
   "componentDataDependencies": {
     "nodes": {},
@@ -803,7 +823,8 @@
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E"
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "thankyou-324": "704/path---thankyou-324-71d-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/home/wiljago/savannah/.cache/dev-404-page.js": {
@@ -817,6 +838,10 @@
     "/home/wiljago/savannah/src/pages/index.js": {
       "query": "",
       "componentPath": "/home/wiljago/savannah/src/pages/index.js"
+    },
+    "/home/wiljago/savannah/src/pages/thankyou.js": {
+      "query": "",
+      "componentPath": "/home/wiljago/savannah/src/pages/thankyou.js"
     }
   },
   "staticQueryComponents": {}
