@@ -132,7 +132,7 @@ class HomeIndex extends React.Component {
                                     </div>
                                 </form>
                                 <ul className="actions">
-                                    <button type="submit">Send</button>
+                                    <li><input type="submit" value="Send Message"/></li>
                                 </ul>
                             </div>
                             <div className="4u 12u$(small)">
