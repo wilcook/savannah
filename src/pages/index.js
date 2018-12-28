@@ -110,8 +110,10 @@ class HomeIndex extends React.Component {
                                 <form
                                   name="contact"
                                   method="post"
+                                  action="/success"
                                   data-netlify="true"
                                   data-netlify-honeypot="bot-field"
+
                                   >
                                     <div className="row uniform 50%">
                                         <div className="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
